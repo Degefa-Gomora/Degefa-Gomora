@@ -176,7 +176,7 @@ Don’t forget to **like, comment, and follow** for more projects and tutorials!
 
 - 🔗 [LinkedIn]https://www.linkedin.com/in/degefa-gomora-4ba34530b/
 
-- 🌐 [Portfolio Website]https://portifolio.degefagomora.com/
+- 🌐 [Portfolio Website]https://degefagomora.com/
 
 - 📬 Email: degefag21@gmail.com
 
